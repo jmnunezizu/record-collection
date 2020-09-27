@@ -12,7 +12,7 @@ tags:
 
 Disc Jockey – Serie Oro 14011 / 1973 / Argentina
 
-Between the end of 1972 and beginning of 1973, Anotonio Juan Sanchez (the one and only [Johnny Allon](https://www.instagram.com/johnnyallonmax)) and the trio Mandragora (led by the Torres brothers) decided to form Caballo Vapor.
+Between the end of 1972 and beginning of 1973, Antonio Juan Sanchez (the one and only [Johnny Allon](https://www.instagram.com/johnnyallonmax)) and the trio Mandragora (led by the Torres brothers) decided to form Caballo Vapor.
 
 Johnny Allon had some contacts in the Disc Jockey record label, and had agreed to record Caballo Vapor's debut album. The band's musical style was quite a departure from Johnny's previous efforts. In fact, the style was so different, that Johnny decided to release the album under his real name – rather than his stage persona. This was done to protect the band from Johnny's disappointed fans, radio DJs and rock magazines.
 
