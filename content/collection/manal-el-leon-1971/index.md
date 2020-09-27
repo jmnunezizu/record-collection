@@ -2,7 +2,7 @@
 title: "Manal - El Leon"
 summary: "RCA Vik – LZ-1176 (1st Mono) / 1971 / ARG"
 date: 2019-10-29T21:48:23+01:00
-draft: true
+draft: false
 ---
 RCA Vik – LZ-1176 (1st Mono) / 1971 / ARG
 

@@ -15,7 +15,7 @@ googleAnalytics = "UA-1XXXXXXX1-X"
 [params.author]
   name = "J"
   thumbnail = "/images/author.jpg"
-  description = "Creator of this blog."
+  description = "Editor"
 
 [params.index]
   picture = "/images/author.jpg"
