@@ -2,7 +2,7 @@
 title: "Aquelarre - Aquelarre"
 summary: Trova – XT-80032 / 1972 / Argentina
 date: 2020-09-27T19:36:40+01:00
-draft: true
+draft: false
 tags:
   - aquelarre
   - emilio del guercio
