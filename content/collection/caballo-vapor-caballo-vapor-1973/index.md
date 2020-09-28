@@ -20,7 +20,7 @@ The album's style could be categorised as Rock/Blues with brass arrangements (if
 
 There are some nice guitar arrangements in some of the tracks. A brass-heavy rendition to "La Balsa" by Los Gatos is included. This version is not great and they even apologise at the end of the song! However, I'm sure it can surprise people if the track is dropped at the right time!
 
-Caballo Vapor released a couple of singles after this album, that went unnoticed, and disbanded shortly after. One of them, probably their best effort, is the funky-groovy "Para Cantarle a Soledad" from 1975. This single is quite rare.
+Caballo Vapor released a couple of singles after this album, that went unnoticed, and disbanded shortly after. One of them, probably their best effort, is the funky-groovy "Busco El Sol, No Se a Donde Voy" – flip side of "Para Cantarle a Soledad" from 1975. This single is quite rare.
 
 Non-essential album that is hard to come by. It has never been reissued and will probably never be.
 
