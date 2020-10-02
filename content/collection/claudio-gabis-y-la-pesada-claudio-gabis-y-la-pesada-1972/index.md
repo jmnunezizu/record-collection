@@ -18,7 +18,7 @@ tags:
 ---
 Microfon – I-352 / 1972 / Argentina
 
-Manal broke up towards the end of 1971. After receiving an invitation from a friend, Claudio Gabis decided to travel to Brazil for 3 months. He spent time in Bahía, San Pablo, and Río (amongst others) and fell in love with the country.
+Manal broke up towards the end of 1971. After receiving an invitation from a friend, Claudio Gabis decided to travel to Brazil for 3 months. He spent time in Bahía, San Pablo, and Río (amongst others), connected with several musicians –like Caetano Veloso and Gilberto Gil– and fell in love with the country.
 
 After returning to Buenos Aires in 1972, he was a bit uncertain about what his next steps should be. Recording an album for Trova was an option, however, Jorge Alvarez (Mandioca / Microfon) came up with a proposal he could not reject: record his debut album with "La Pesada" – a group he would later join full time.
 
@@ -26,7 +26,7 @@ This incarnation of "La Pesada", the most stable, included the ex-Manal Alejandr
 
 All songs in the album are originals written by Gabis – 3 of them inspired by the fantastic literature of Lord Dunsany, H.P Lovecraft, and Algernon Blackwood. Juan Gatti was commissioned with the artwork; and José Luis Perotta did the photography.
 
-Album-opener "Fiebre de La Ruta" starts with vocal harmonies and pastoral slide guitar – competely deceiving the listener. About 50 seconds in, the song explodes with a visceral scream by Billy Bond, aggressive guitar, and tight drums. This is pure raw power.
+Album-opener "Fiebre de La Ruta" starts with vocal harmonies and pastoral slide guitar – completely deceiving the listener. About 50 seconds in, the song explodes with a visceral scream by Billy Bond, aggressive guitar, and tight drums. This is pure raw power.
 
 "Mas Allá del Viaje del Tiempo" has both Kubero and Medina sharing vocal duties; "Blues Del Terrror Azul" was about the police repression seen during those days, and features Medina delivering tight bass lines and Gabis on yet another brilliant wah-wah performance.
 
