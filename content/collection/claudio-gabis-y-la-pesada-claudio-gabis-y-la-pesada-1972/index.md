@@ -2,7 +2,7 @@
 title: "Claudio Gabis Y La Pesada - Claudio Gabis Y La Pesada"
 summary: Microfon – I-352 / 1972 / Argentina
 date: 2020-09-29T21:56:11+01:00
-draft: true
+draft: false
 tags:
   - claudio gabis
   - alejandro medina
