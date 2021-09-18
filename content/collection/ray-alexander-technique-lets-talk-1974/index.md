@@ -7,6 +7,8 @@ tags:
   - ray alexander technique
   - rare groove
   - rare groove a to z
+  - funk
+  - soul
 ---
 Harlem Sound – SA 001, Lu Jun Productions – 2001 / 1974 / US
 
