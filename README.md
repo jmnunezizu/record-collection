@@ -5,7 +5,7 @@ Record Collection Blog
 
 ```
 hugo server -D
-``
+```
 
 ## New Article
 
