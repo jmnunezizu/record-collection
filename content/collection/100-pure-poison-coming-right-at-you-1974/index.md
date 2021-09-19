@@ -1,7 +1,7 @@
 ---
 title: "100% Pure Poison - Coming Right at You"
 summary: EMI International – INS 3001 / 1974 / UK
-date: 2021-09-16T18:43:59+01:00
+date: 2021-09-18T16:10:59+01:00
 draft: true
 tags:
   - rare groove
