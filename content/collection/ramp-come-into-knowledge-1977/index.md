@@ -14,7 +14,6 @@ tags:
   - a tribe callde quest
   - sampling source
 ---
-RAMP - Come Into Knowledge
 ABC Blue Thumb – BT-6028 / 1977 / US
 
 Where to begin with this one, what a monster of a record! Roy Ayers (@realroyayers) produced and wrote most of the songs in this LP. It also has some originals by Edwin Birdsong (ex Roy Ayers Ubiquity).

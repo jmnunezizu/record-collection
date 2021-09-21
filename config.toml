@@ -11,7 +11,7 @@ googleAnalytics = "UA-1XXXXXXX1-X"
   #logo = "/images/logo.png"
   #description ="the clean blog!"
   #mailchimp = "you can provide a mailchimp-link here"
-  # customCSS = ["/styles/styles.css"]
+  customCSS = ["css/styles.css"]
 
 [params.author]
   name = "J"
