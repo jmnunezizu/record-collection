@@ -1,6 +1,6 @@
 ---
 title: "Eighties Ladies - Ladies of the Eighties"
-summary: Uno Melodic Records – UM-0001
+summary: Uno Melodic Records – UM-0001 / 1980 / US
 date: 2021-09-23T18:55:45+01:00
 draft: false
 tags:
