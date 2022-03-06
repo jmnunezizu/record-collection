@@ -7,6 +7,7 @@ tags:
   - rare groove
   - rare groove a to z
   - jazz funk
+  - johnny hammond
   - mizell brothers
   - harvey mason
   - chuck rainey
