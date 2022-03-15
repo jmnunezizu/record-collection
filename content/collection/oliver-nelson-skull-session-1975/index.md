@@ -4,7 +4,6 @@ summary: Flying Dutchman – BDL1-0825 / Promo / 1975 / US
 date: 2022-03-10T18:12:56Z
 draft: false
 tags:
-  - 1975
   - rare groove
   - rare groove a to z
   - jazz
@@ -19,6 +18,7 @@ tags:
   - willie bobo
   - bob thiele
   - bob grossé
+  - 1975
 ---
 Oliver Nelson - Skull Session
 summary: Flying Dutchman – BDL1-0825 / Promo / 1975 / US
