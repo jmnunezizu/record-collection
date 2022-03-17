@@ -2,7 +2,7 @@
 title: "Rance Allen Group - Say My Friend"
 summary: Capitol Records – ST-11613 / 1977 / US
 date: 2022-03-14T19:45:39Z
-draft: true
+draft: false
 tags:
   - rare groove
   - rare groove a to z
