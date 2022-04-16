@@ -5,6 +5,7 @@ date: 2022-04-13T20:45:59+01:00
 draft: false
 tags:
   - teenage fanclub
+  - norman blake
   - creation records
   - indie
 ---
