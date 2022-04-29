@@ -7,6 +7,7 @@ tags:
   - teenage fanclub
   - norman blake
   - creation records
+  - alan mcgee
   - indie
 ---
 Teenage Fanclub - Bandwagonesque

@@ -7,6 +7,7 @@ tags:
   - super furry animals
   - gruff rhys
   - creation records
+  - alan mcgee
   - indie
 ---
 Super Furry Animals - Fuzzy Logic
