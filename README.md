@@ -3,10 +3,10 @@ Record Collection Blog
 
 ## Installation
 
-Install themes:
+Install theme submodules:
 
 ```
-$ git submodule add https://github.com/lgaida/mediumish-gohugo-theme themes/ themes/mediumish
+$ git submodule init
 ```
 
 ## Start
