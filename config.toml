@@ -1,7 +1,7 @@
 baseURL = "https://jmnunezizu.github.io/record-collection/"
 languageCode = "en-us"
 title = "Record Collection"
-theme = "mediumish"
+theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "Jose Maria Nunez-Izu - All rights reserved"
 disqusShortname = "shortDisquis"

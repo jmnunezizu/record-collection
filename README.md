@@ -1,6 +1,14 @@
 # record-collection
 Record Collection Blog
 
+## Installation
+
+Install themes:
+
+```
+$ git submodule add https://github.com/lgaida/mediumish-gohugo-theme themes/ themes/mediumish
+```
+
 ## Start
 
 ```
