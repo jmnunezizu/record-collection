@@ -3,10 +3,17 @@ Record Collection Blog
 
 ## Installation
 
+Install Hugo
+
+```
+$ brew install hugo
+```
+
 Install theme submodules:
 
 ```
 $ git submodule init
+$ git submodule update
 ```
 
 ## Start
